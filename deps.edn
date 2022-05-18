@@ -1,3 +1,3 @@
 {
-  :deps {io.github.metosin/malli {:git/tag "0.8.3"}}
+  :deps {io.github.renovatebot/renovate {:git/tag "32.61.0"}}
 }
