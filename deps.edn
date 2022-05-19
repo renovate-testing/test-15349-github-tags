@@ -1,6 +1,6 @@
 {
   :deps {
     ;io.github.renovatebot/renovate {:git/tag "32.60.0"}
-    io.github.metosin/malli {:git/tag "0.8.2"}
+    io.github.metosin/malli {:git/tag "0.8.4"}
   }
 }
