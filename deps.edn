@@ -1,7 +1,7 @@
 {
   :deps {
     io.github.renovatebot/renovate {:git/tag "32.60.0"}
-    io.github.nextjournal/clerk {:mvn/version "0.7.418"}
+    io.github.nextjournal/clerk {:mvn/version "0.7.316"}
     ;io.github.metosin/malli {:git/tag "0.8.2"}
   }
 }
