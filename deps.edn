@@ -1,7 +1,7 @@
 {
   :deps {
-    io.github.renovatebot/renovate {:git/tag "32.60.0"
-                                    :git/sha "aaaaaa"}
+    io.github.renovatebot/renovate {:git/tag "32.74.0"
+                                    :git/sha "7f05729d5dc643fcd4368093802e9a623a92ba09"}
 ;    io.github.nextjournal/clerk {:mvn/version "0.7.316"}
     io.github.metosin/malli {:git/sha "aaaaaa"}
   }
