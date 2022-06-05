@@ -4,7 +4,7 @@
 ;    io.github.renovatebot/renovate {:git/tag "32.60.0"
 ;                                    :git/sha "aaaaaa"}
 ;    io.github.nextjournal/clerk {:mvn/version "0.7.316"}
-    io.github.metosin/malli {:git/tag "0.8.3"
-                             :git/sha "9d265fa"}
+    io.github.metosin/malli {:git/tag "0.8.4"
+                             :git/sha "002d5cbc724e83f07f126d66b19df022859f1cbf"}
   }
 }
