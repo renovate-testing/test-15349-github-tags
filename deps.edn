@@ -5,6 +5,6 @@
 ;    io.github.nextjournal/clerk {:mvn/version "0.7.316"}
 ;    io.github.metosin/malli {:git/tag "0.8.3"
 ;                             :git/sha "9d265fa"}
-    io.github.nodejs/node {:git/tag "18.3.0"}
+    io.github.nodejs/node {:git/tag "v18.19.0"}
   }
 }
